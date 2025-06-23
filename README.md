@@ -1,1 +1,13 @@
 # Cybersecurity-Portfolio
+
+Hello, my name is Jared. I currently work in luxury clothing sales, but have always had an interest in learning the in's and out's of the internet. What's peaked my interest, is the developments through commercial usage have provided insights and expanded capabilities good and bad. I've recently started to learn to code as a hobby to create and simplify tasks, and then I discovered the world of cybersecurity.
+
+At the age of 4, I was playing online multiplayer games, finding easter eggs that developers had intentionally put in, looking into bugs that were unintentional found by other players on forums. At the age of 10, I made a MySpace account, dipping my toes into the internet, seeing how vast the internet was. At 12, I was learning how to edit webpages with HTML on Tumblr, I didn't realize it yet, but I found it intriguing to have an idea in mind, and have it come to life, and that is coding to me. 
+
+As I've matured, though I still enjoy video games I have limited time due to my job, this is where coding and automation caught my attention. World of Warcraft; a game that I've played off and on ever since 2008, there was a rank that I've wanted to achieve since I was 10 years old. In a newly released version of the game, I created an AutoHotKey macro to simulate gameplay to achieve that rank.
+
+This led me to Python. I quickly grasped the basics of how Python worked, used it to map out my monthly pay at my current job calculating commission and hourly pay, and I'm working on a project to assist my finance manager to automate the company’s payroll. I'm hoping this project will help me get my foot in the door to a career that utilizes Python to automate benign tasks. Through this programming language, I've found a genuine interest in learning how solve problems with coding and to minimize human error, while increasing efficiencies.
+
+At the luxury clothing store I currently work at, our commercial footprint is large, but accessibility to our products are very niche. With only two retail locations in the US, we operate with a compressed group that have to communicate and work together efficiently. Through projects and challenges, I am a consistent problem solver, and often lead the charge to finding solutions to any obstacles we may encounter. 
+
+As I've developed an appreciation and interest in this industry, I believe this would be a great way to further my growth and challenge myself as an individual. The scope of technology, processes, and the protection needed to curb disruption, theft, or destruction of computer systems, personal information, or confidentialities are just a few things that have led me to this point. I look forward to being a contributing factor to this industry.
